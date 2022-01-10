@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elyorbek Djalalov
-- 👀 I’m interested in Web Dev. and AI
-- 🌱 I’m currently learning Web Dev.
+- 👀 I’m interested in Web Development, Web3 and AI
+- 🌱 I’m currently into mastering Web Development and Web3.
 - 📫 edjalalov@outlook.com
 
 <!---
