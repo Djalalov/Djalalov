@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elyorbek Djalalov, a web developer.
 - 👀 I’m interested in Web Development, Web3 and AI
-- 🌱 I’m currently into mastering React, SSR with Next, and Redux/Recoil 
+- 🌱 I’m currently working with React, SSR with Next, and Redux/Recoil 
 - 📫 edjalalov@outlook.com 
 - Telegram link for instant messaging: https://t.me/ElyorbekDjalalov
 
