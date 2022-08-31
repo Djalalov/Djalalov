@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Elyorbek Djalalov, a web developer.
+- 👋 Hi, I’m Elyor Djalalov, a web developer.
 - 👀 I’m interested in Web Development, Web3 and AI
-- 🌱 I’m currently working with React, SSR with Next js, Redux/Recoil/Redux-saga, TailwindCSS/SCSS, GraphQL/RestAPI, Firestore/MongoDB  
+- 🌱 I’m currently working with React, TypeScript, SSR with Next js, Redux, TailwindCSS/SCSS, GraphQL/RestAPI, 
 - 📫 edjalalov@outlook.com 
 - Telegram link for instant messaging: https://t.me/ElyorbekDjalalov
 
